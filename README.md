@@ -11,6 +11,9 @@ I love gorilla tag and beat saber
 Just a little Something for gorilla tag 1.1.0
 
 ## [ALL MONKEMAPLOADER MAPS](https://github.com/BeastGB/AllMonkeCustomMaps)
-This is for MonkeMapLoader (see above) And its all of the maps on [The maphub](www.google.com)
+This is for MonkeMapLoader (see above) And its all of the maps on [The maphub](https://monkemaphub.com/pages/maps)
 
-## [The maphub](www.google.com)
+## [Codegen & Gorilla utils for 1.1.0](https://github.com/BeastGB/MONKEUTILS-LETSS-GOOO)
+Something i made from porting files on my headset into a zip into a qmod Pretty cool huh 
+<img src="https://e7.pngegg.com/pngimages/655/278/png-clipart-emoticon-smiley-computer-icons-t-shirt-sunglasses-smiley-miscellaneous-face.png" alt="Yellow smiley emoji, Emoji Computer Icons Emoticon, sunglasses emoji,  smiley, sticker png | PNGEgg"/>![Me when i take files and make into qmod]()
+
