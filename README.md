@@ -15,3 +15,10 @@ This is for MonkeMapLoader (see above) And its all of the maps on [The maphub](h
 
 ## [Codegen & Gorilla utils for 1.1.0](https://github.com/BeastGB/MONKEUTILS-LETSS-GOOO)
 Something i made from porting files on my headset into a zip into a qmod Pretty cool huh :yeye:
+
+
+
+
+
+
+THIS TOOK ME LIKE 30 MINUTES TO SETUP
